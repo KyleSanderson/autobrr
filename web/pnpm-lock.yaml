@@ -39,8 +39,8 @@ dependencies:
     specifier: ^18.2.7
     version: 18.2.7
   '@types/react-portal':
-    specifier: ^4.0.4
-    version: 4.0.4
+    specifier: ^4.0.5
+    version: 4.0.5
   '@types/react-router-dom':
     specifier: ^5.3.3
     version: 5.3.3
@@ -2217,8 +2217,8 @@ packages:
       '@types/react': 18.2.20
     dev: false
 
-  /@types/react-portal@4.0.4:
-    resolution: {integrity: sha512-ecVWngYHeSymq5XdrQOXRpIb9ay5SM4Stm/ur6+wc0Z+r05gafZ5SuMRbXKYsj4exNJa+4CTKK6J7qcTKm9K5g==}
+  /@types/react-portal@4.0.5:
+    resolution: {integrity: sha512-BgctZbzSwN7R2aZ1Ovv7x3A6pQZlTmkbdmuGa4sOXiF6V4+fwm5jGnHpONSKNmf2XyzjCIUzF0s7DNYiqjx7Dw==}
     dependencies:
       '@types/react': 18.2.20
     dev: false
